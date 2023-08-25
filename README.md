@@ -1,4 +1,4 @@
-## Homework 0: Test Git Workflow
+## Homework 0: Test GitHub Classroom Workflow
 
 We will use this homework assignment to test the git workflow that we will use to submit assignments in this course. This homework will not be graded. Use this opportunity to make sure that you have everything setup before working with the homework assignments. Do not hesitate to contact the teaching staff if you are stuck.
 
@@ -38,7 +38,7 @@ Once you have setup SSH to work with GitHub, we can now seamlessly download the 
 
 `git clone <paste-ssh-link>`
 
-You will see a directory or folder named *./cise337-hw0-setup* created in your current directory or folder. Inside this folder, you will find the following files:
+You will see a directory or folder named *./<homework-name>-<Guthub-ID>* created in your current directory or folder. Inside this folder, you will find the following files:
 - *hw0.py* with a function that returns a message. This is the file in which you will write your code. For this assignment all you have to do is fill in your name, NetID, and SBU ID.
 
 - *hw0_test.py* This file contains test code to verify the behavior of *hw0.py*. In this assignment it contains code to verify if the expected message is being returned from the function in *hw0.py*. In future assignments, this file will have numerous test cases which you will need to pass. You will get credit for every test case you pass. You must not change this file. If you do then you won't receive any credit for the homework.
